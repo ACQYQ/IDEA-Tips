@@ -1,0 +1,5 @@
+Tip 1 : 
+	IDEA出现java: 错误: 不支持发行版本 15
+	maven报错：不再支持源选项 5。请使用 6 或更高版本。
+
+	maven项目中的pom.xml文件没有打war包
